@@ -3,4 +3,4 @@ def print_hello():
 
 if __name__ == '__main__':
     print_hello()
-print("cex")
+print("지금 이 순간 지금여기")
